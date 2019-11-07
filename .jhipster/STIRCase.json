@@ -1,0 +1,416 @@
+{
+    "name": "STIRCase",
+    "fields": [
+        {
+            "fieldName": "entityName",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "entity",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "lsdbID",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "relationship",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "vendorRAGstatus",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "explanationOfEstimate",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "repRiskConcerns",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "relationshipDescription",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "i1na",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "i2na",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "i3na",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "i4na",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "i5na",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "i6na",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "i7na",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "i8na",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "i9na",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "i10na",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "i11na",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "i12na",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "indicatorDiscuss1",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "indicatorDiscuss2",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "indicatorDiscuss3",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "indicatorDiscuss4",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "indicatorDiscuss5",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "indicatorDiscuss6",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "indicatorDiscuss7",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "indicatorDiscuss8",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "indicatorDiscuss9",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "indicatorDiscuss10",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "indicatorDiscuss11",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "indicatorDiscuss12",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "decision",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "potentialMitigatingActions",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "commentChallenge",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "commentValidate",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "entityInfoRC",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "stepInEstimationRC",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "impactAnalysisRC",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "indicatorAnalysisRC",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "entityBelowBSponsor",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "isSPE",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "noneOfTheAboveA",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "entityBelowBInvestor",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "equityHoldingsPerPolicy",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "debtHoldingsInScope",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "noneOfTheAboveB",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "tier1Vendor",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "noneOfTheAboveC",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "entityType",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "entityTypeOther",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "attachment",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "attachmentNoCID",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "attachmentComment",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "typeOfSupportAnticipated",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "instrumentOfTradingOrBankingBook",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "regTreatment",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "description",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "accountingIFRSTreatment",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "accountingIFRSTreatmentEquity",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "accountingIFRSTreatmentDebt",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "totalAssetSize",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "uncalledCommitment",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "currentAUM",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "targetAUM",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "stepInRiskAmount",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "contractualExposureInMillionUSD",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "amconf1",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "amconf2",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "amconf3",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "dRRdecision",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "optionalComment",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "optionalCommentRatios",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "rejectionRationale",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "dueDate",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "caseType",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "caseName",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "endTime",
+            "fieldType": "LocalDate"
+        },
+        {
+            "fieldName": "caseDueDate",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "firstLoDInitiator",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "secondLoDAssignee",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "ratioAssignee",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "drrAssignee",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "businessKey",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "initiationDate",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "reviewOutcome",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "ubsDivision",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "commentReject",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "rejectOrEscalate",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "attachmentEscalation",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "attachmentEscalationNoCID",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "callbackId",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "callbackType",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "caseDefinitionId",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "name",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "parentId",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "startTime",
+            "fieldType": "LocalDate"
+        },
+        {
+            "fieldName": "startUserId",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "state",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "tenantId",
+            "fieldType": "String"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20191107142514",
+    "entityTableName": "stir_case",
+    "dto": "no",
+    "pagination": "no",
+    "service": "no",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "readOnly": false,
+    "clientRootFolder": "",
+    "applications": "*"
+}
